@@ -1,0 +1,129 @@
+a{
+  text-decoration: none !important;
+}
+.home-container {
+    padding: 20px;
+  }
+  
+  .home-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .home-header h1 {
+    font-size: 2.5em;
+    color: #e2c74e;
+    margin-bottom: 10px;
+  }
+  
+  .home-header p {
+    font-size: 1.2em;
+    color: #e0e0e0;
+  }
+  
+
+
+
+
+
+
+
+
+  .featured-sneakers {
+    margin-bottom: 40px;
+  }
+  
+  .featured-sneakers h2 {
+    font-size: 2em;
+    color: #e2c74e;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e2c74e;
+    padding-bottom: 10px;
+  }
+  
+
+
+
+
+
+
+
+
+
+  
+
+  .sneaker-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .sneaker-card {
+    background-color: #212121;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .sneaker-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  }
+  
+  .sneaker-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .sneaker-card h3 {
+    font-size: 1.3em;
+    color: #e0e0e0;
+    margin-bottom: 5px;
+  }
+  
+  .sneaker-card p {
+    font-size: 1em;
+    color: #bdbdbd;
+  }
+  
+
+
+
+
+
+
+
+
+  .home-cta {
+    text-align: center;
+  }
+  
+  .home-cta h2 {
+    font-size: 2em;
+    color: #e2c74e;
+    margin-bottom: 20px;
+  }
+  
+  .home-cta p {
+    font-size: 1.2em;
+    color: #e0e0e0;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #e2c74e;
+    color: #121212;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #e68a00;
+  }

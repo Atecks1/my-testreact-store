@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Nike Air Mag",
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "price": 80000,
+    "description": "Легендарные кроссовки из фильма 'Назад в будущее 2'."
+  },
+  {
+    "id": 2,
+    "title": "Nike Dunk SB Low Staple NYC Pigeon",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "price": 25000,
+    "description": "Культовые кроссовки, созданные в сотрудничестве с Jeff Staple."
+  },
+  {
+    "id": 3,
+    "title": "Adidas Human Race NMD Pharrell x Chanel",
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TmlrZSUyMHNuZWFrZXJzfGVufDB8fDB8fHww",
+    "price": 15000,
+    "description": "Коллаборация Pharrell Williams и Chanel."
+  },
+  {
+    "id": 4,
+    "title": "Air Jordan 1 Retro High Dior",
+    "image": "https://images.unsplash.com/photo-1533680937690-d59ab2543468?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 12000,
+    "description": "Люксовая версия Air Jordan 1, созданная в сотрудничестве с Dior."
+  },
+  {
+    "id": 5,
+    "title": "NikeCraft Mars Yard Shoe 2.0 Tom Sachs",
+    "image": "https://images.unsplash.com/photo-1602231379593-b85a472e3c99?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 8000,
+    "description": "Кроссовки, разработанные совместно с художником Tom Sachs."
+  },
+  {
+    "id": 6,
+    "title": "Nike Air Yeezy 2 Red October",
+    "image": "https://images.unsplash.com/photo-1613166945462-cc582838b56e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 7000,
+    "description": "Одна из самых желанных моделей Yeezy, созданная совместно с Kanye West."
+  },
+ {
+    "id": 7,
+    "title": "Off-White x Nike Air Presto",
+    "image": "https://images.unsplash.com/photo-1618898909019-010e4e234c55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 4500,
+    "description": "Дизайнерская коллаборация Off-White и Nike на базе модели Air Presto."
+  },
+  {
+    "id": 8,
+    "title": "Balenciaga Triple S",
+    "image": "https://images.unsplash.com/photo-1580902215245-bd46881c72c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 1150,
+    "description": "Массивная модель кроссовок от Balenciaga, ставшая культовой."
+  },
+    {
+    "id": 9,
+    "title": "Comme des Garçons x Nike Air Force 1 Mid",
+    "image": "https://images.unsplash.com/photo-1612724271076-24c0a3bade29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 650,
+    "description": "Совместная работа Comme des Garçons и Nike на базе Air Force 1 Mid."
+  },
+  {
+    "id": 10,
+    "title": "New Balance 990v5",
+    "image": "https://images.unsplash.com/photo-1612202686023-7fa91082956c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 220,
+    "description": "Классические кроссовки New Balance, произведенные в США."
+  },
+  {
+    "id": 11,
+    "title": "Maison Margiela Fusion Sneakers",
+    "image": "https://images.unsplash.com/photo-1615451210353-cbcf249f392a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 1645,
+    "description": "Авангардные кроссовки от Maison Margiela."
+  },
+   {
+    "id": 12,
+    "title": "Givenchy Monumental Mallow low sneakers",
+    "image": "https://images.unsplash.com/photo-1519810409043-b6d44921bfa2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 950,
+    "description": "Эффектные, мягкие кроссовки от Givenchy."
+  },
+   {
+    "id": 13,
+    "title": "Alexander McQueen oversized sneakers",
+    "image": "https://images.unsplash.com/photo-1561095884-bb4b8d43c18b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 580,
+    "description": "Культовые кроссовки Alexander McQueen на массивной подошве."
+  },
+   {
+    "id": 14,
+    "title": "Loewe Flow Runner sneakers",
+    "image": "https://images.unsplash.com/photo-1620138546344-7b2c38516edf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 690,
+    "description": "Элегантные и удобные кроссовки от Loewe."
+  },
+   {
+    "id": 15,
+    "title": "Versace Trigreca sneakers",
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 950,
+    "description": "Смелые и роскошные кроссовки от Versace."
+  },
+  {
+    "id": 16,
+    "title": "Prada Cloudbust Thunder sneakers",
+    "image": "https://images.unsplash.com/photo-1636718282214-0b4162a154f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fE5pa2UlMjBzbmVha2Vyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 995,
+    "description": "Футуристичные кроссовки от Prada."
+  },
+  {
+    "id": 17,
+    "title": "Gucci Ultrapace R sneakers",
+    "image": "https://images.unsplash.com/photo-1595909337002-3cdc3a590160?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxOaWtlJTIwc25lYWtlcnN8ZW58MHx8MHx8fDA%3D",
+    "price": 890,
+    "description": "Стильные и необычные кроссовки от Gucci."
+  },
+  {
+    "id": 18,
+    "title": "Fendi Match low-top sneakers",
+    "image": "https://images.unsplash.com/photo-1515564242578-bbea07d21cbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAzfHxOaWtlJTIwc25lYWtlcnN8ZW58MHx8MHx8fDA%3D",
+    "price": 850,
+    "description": "Элегантные и минималистичные кроссовки от Fendi."
+  },
+  {
+    "id": 19,
+    "title": "Valentino Garavani One Stud low-top sneakers",
+    "image": "https://images.unsplash.com/photo-1576229086948-cfba99afcca5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA4fHxOaWtlJTIwc25lYWtlcnN8ZW58MHx8MHx8fDA%3D",
+    "price": 890,
+    "description": "Роскошные и стильные кроссовки от Valentino Garavani."
+  },
+  {
+    "id": 20,
+    "title": "Bottega Veneta Puddle rubber ankle boots",
+    "image": "https://images.unsplash.com/photo-1615290642708-a37192ba54ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE1fHxOaWtlJTIwc25lYWtlcnN8ZW58MHx8MHx8fDA%3D",
+    "price": 650,
+    "description": "Необычные резиновые ботинки от Bottega Veneta."
+  }
+]
